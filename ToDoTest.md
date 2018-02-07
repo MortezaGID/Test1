@@ -19,4 +19,9 @@
 | Backtick | `         |
 | Pipe     | \|        |
 ______
-Visit https://github.com
+
+![Alt text](http://www.ptc.co.ir/wp-content/uploads/2015/05/image001.png "Optional title")
+
+Visit https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments
+Visit https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists
+https://daringfireball.net/projects/markdown/syntax#lists
