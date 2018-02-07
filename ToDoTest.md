@@ -6,6 +6,17 @@
   + [x] Mars
   + [ ] Jupiter
   + [ ] Saturn
-- [ ] Uranus
+- [ ] Uranus  [پیوند به بیرون](https://pages.github.com/)
 - [ ] Neptune
-- [ ] Comet Haley
+- [ ] @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+- [ ] normal **formatting**, @mentions, #1234 refs
+
+------
+جدول
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+______
+Visit https://github.com
