@@ -1,7 +1,7 @@
 ### تست تو دو لیست با مارک داون
 
 - [ ] Mercury \(Optional) Open a followup issue
-- [x] Venus
+- [x] Venus ~~Scratch this.~~
 - [x] Earth (Orbit/Moon)
   + [x] Mars
   + [ ] Jupiter ![Progress](http://progressed.io/bar/28)
