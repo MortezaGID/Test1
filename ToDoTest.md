@@ -1,6 +1,6 @@
 ### تست تو دو لیست با مارک داون
 
-- [ ] Mercury
+- [ ] Mercury \(Optional) Open a followup issue
 - [x] Venus
 - [x] Earth (Orbit/Moon)
   + [x] Mars
